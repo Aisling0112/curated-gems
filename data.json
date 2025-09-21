@@ -10,5 +10,16 @@
 "summary_en": "The article explores how cats' seemingly irrational behaviors might reveal deeper insights into cognitive processes and decision-making heuristics, drawing parallels to human rationality and AI development. It argues that these 'feline algorithms' could inform better models of bounded rationality.",
 "summary_zh": "这篇文章探讨了猫看似非理性的行为如何揭示认知过程和决策启发法的深层见解，并将其与人类理性和人工智能发展相类比。文章认为这些“猫科算法”可以为有限理性提供更好的模型。",
 "best_quote_en": "The cats are not irrational; they are executing a different kind of rationality—one optimized for their evolutionary niche, which might hold keys to understanding general intelligence.",
-"best_quote_zh": "猫并非不理性；它们是在执行一种不同的理性——一种为其进化生态位优化的理性，这可能为了解通用智能提供关键线索。"
+"best_quote_zh": "猫并非不理性；它们是在执行一种不同的理性——一种为其进化生态位优化的理性，这可能为了解通用智能提供关键线索。","id": 3,
+"title": "How to Do Great Work",
+"title_zh": "如何做出伟大的工作",
+"source": "Paul Graham",
+"link": "https://www.paulgraham.com/talk.html",
+"tags": ["Productivity", "Creativity", "Career Advice", "Essays"],
+"tags_zh": ["生产力", "创造力", "职业建议", "随笔"],
+"date": "2024-01-01",
+"summary_en": "This essay by Paul Graham is a condensed transcript of a talk on the patterns and principles behind doing truly great work. It argues that great work comes from a combination of natural curiosity, obsession, and working on what genuinely interests you, rather than following pre-defined paths or seeking approval.",
+"summary_zh": "这是保罗·格雷厄姆一篇演讲的文字稿，精辟地阐述了做出真正伟大工作背后的模式与原则。文章认为，伟大的工作源于天然的好奇心、痴迷以及致力于你真正感兴趣的事情，而不是遵循预设的道路或寻求他人的认可。",
+"best_quote_en": "'Great work usually entails spending a great deal of time on it. But that in turn requires that you like it enough to do that. So in practice, great work almost always starts with finding something you have a deep interest in.'",
+"best_quote_zh": "『伟大的工作通常需要在其上投入大量时间。但这反过来又要求你足够喜欢它才能这样做。所以在实践中，伟大的工作几乎总是从发现你深感兴趣的事物开始。』"
 }]
