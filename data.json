@@ -1,17 +1,4 @@
 [{
-"id": 13,
-"title": "Makes You Think",
-"title_zh": "引人深思",
-"source": "Collab Fund",
-"link": "https://collabfund.com/blog/makes-you-think/",
-"tags": ["Critical Thinking", "Wisdom", "Reflection", "Philosophy"],
-"tags_zh": ["批判性思维", "智慧", "反思", "哲学"],
-"date": "2024-01-01",
-"summary_en": "This article is a curated collection of profound quotes, ideas, and mental models that challenge conventional thinking. It serves as a catalyst for deeper reflection on important topics like risk, decision-making, human nature, and the meaning of success.",
-"summary_zh": "这篇文章是一个精心策划的集合，包含了挑战传统思维的深刻引文、观点和思维模型。它作为一个催化剂，促使人们对风险、决策、人性和成功的意义等重要主题进行更深入的反思。",
-"best_quote_en": "'The goal isn't to have more answers, but to have better questions. The most valuable thinking often begins with 'What if I'm wrong?''",
-"best_quote_zh": "'目标不是拥有更多答案，而是提出更好的问题。最有价值的思考往往始于‘如果我错了怎么办？’'"
-},{
 "id": 1,
 "title": "The Cats Are on to Something",
 "title_zh": "猫发现了什么",
@@ -23,7 +10,7 @@
 "summary_en": "The article explores how cats' seemingly irrational behaviors might reveal deeper insights into cognitive processes and decision-making heuristics, drawing parallels to human rationality and AI development. It argues that these 'feline algorithms' could inform better models of bounded rationality.",
 "summary_zh": "这篇文章探讨了猫看似非理性的行为如何揭示认知过程和决策启发法的深层见解，并将其与人类理性和人工智能发展相类比。文章认为这些“猫科算法”可以为有限理性提供更好的模型。"
 },"best_quote_en": "The cats are not irrational; they are executing a different kind of rationality—one optimized for their evolutionary niche, which might hold keys to understanding general intelligence.",
-{"best_quote_zh": "猫并非不理性；它们是在执行一种不同的理性——一种为其进化生态位优化的理性，这可能为了解通用智能提供关键线索。","id": 3,
+{"best_quote_zh": "猫并非不理性；它们是在执行一种不同的理性——一种为其进化生态位优化的理性，这可能为了解通用智能提供关键线索。"},{"id": 2,
 "title": "How to Do Great Work",
 "title_zh": "如何做出伟大的工作",
 "source": "Paul Graham",
@@ -36,7 +23,7 @@
 "best_quote_en": "'Great work usually entails spending a great deal of time on it. But that in turn requires that you like it enough to do that. So in practice, great work almost always starts with finding something you have a deep interest in.'",
 "best_quote_zh": "『伟大的工作通常需要在其上投入大量时间。但这反过来又要求你足够喜欢它才能这样做。所以在实践中，伟大的工作几乎总是从发现你深感兴趣的事物开始。』"}
 ,{
-"id": 4,
+"id": 3,
 "title": "The Ultimate Guide to Learning How to Learn",
 "title_zh": "学习如何学习的终极指南",
 "source": "Farnam Street",
@@ -49,7 +36,7 @@
 "best_quote_en": "'Learning how to learn is one of the most valuable skills you can develop. It's the meta-skill that unlocks every other domain of knowledge and allows you to turn information into understanding.'",
 "best_quote_zh": "『学习如何学习是你能培养的最有价值的技能之一。它是元技能，能解锁所有其他知识领域，让你将信息转化为理解。』"
 },{
-"id": 5,
+"id": 4,
 "title": "Little Rules About Big Things",
 "title_zh": "关于大事的小规则",
 "source": "Collab Fund",
@@ -62,7 +49,7 @@
 "best_quote_en": "'The most important things are simple, but not easy. The trick is remembering the simple things when things get complex.'",
 "best_quote_zh": "'最重要的事情是简单，但并不容易。诀窍在于在事情变得复杂时记住简单的事情。'"
 },{
-"id": 6,
+"id": 5,
 "title": "The Cost of Comfort",
 "title_zh": "舒适的代价",
 "source": "Collab Fund",
@@ -75,7 +62,7 @@
 "best_quote_en": "'Comfort is often the enemy of growth. The things that make you feel safe and secure in the short run can make you fragile and stagnant in the long run.'",
 "best_quote_zh": "'舒适常常是成长的敌人。那些让你在短期内感到安全可靠的东西，从长远来看可能会让你变得脆弱和停滞不前。'"
 },{
-"id": 7,
+"id": 6,
 "title": "Different Kinds of Smart",
 "title_zh": "不同类型的聪明",
 "source": "Collab Fund",
@@ -88,7 +75,7 @@
 "best_quote_en": "'The world's most effective people are rarely just one kind of smart. They're usually a blend of intellectual horsepower, emotional awareness, and the practical wisdom to know when to apply which.'",
 "best_quote_zh": "'世界上最有效的人很少只是某一种聪明。他们通常是智力、情绪意识和实践智慧的混合体，知道在何时运用哪一种。'"
 },{
-"id": 8,
+"id": 7,
 "title": "Beautiful vs. Practical Advice",
 "title_zh": "美好的建议 vs. 实用的建议",
 "source": "Collab Fund",
@@ -101,7 +88,7 @@
 "best_quote_en": "'Beautiful advice tells you what you want to hear; practical advice tells you what you need to do. The gap between the two is where most good intentions go to die.'",
 "best_quote_zh": "'美好的建议告诉你你想听什么；实用的建议告诉你需要做什么。两者之间的差距是大多数良好意图消亡的地方。'"
 },{
-"id": 9,
+"id": 8,
 "title": "Your Way Is the Only Way",
 "title_zh": "你的方式是唯一的方式",
 "source": "Collab Fund",
@@ -114,7 +101,7 @@
 "best_quote_en": "'The moment you believe there's only one right way to do something is the moment you stop learning. The world is too complex for any single perspective to hold all the answers.'",
 "best_quote_zh": "'当你相信做某事只有一种正确方式时，就是你停止学习之时。世界太复杂，任何单一视角都无法囊括所有答案。'"
 },{
-"id": 10,
+"id": 9,
 "title": "Take Something Away",
 "title_zh": "拿走一些东西",
 "source": "Collab Fund",
@@ -127,7 +114,7 @@
 "best_quote_en": "'Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.' - Antoine de Saint-Exupéry",
 "best_quote_zh": "'完美不在于无以复加，而在于无可删减。' - 安东尼·德·圣-埃克苏佩里"
 },{
-"id": 11,
+"id":10,
 "title": "Cumulative vs. Cyclical Knowledge",
 "title_zh": "累积性知识与周期性知识",
 "source": "Collab Fund",
@@ -140,7 +127,7 @@
 "best_quote_en": "'Science is cumulative; human nature is cyclical. The biggest mistakes happen when you confuse which is which.'",
 "best_quote_zh": "'科学是累积的；人性是周期的。最大的错误发生在你混淆两者的时候。'"
 },{
-"id": 12,
+"id": 11,
 "title": "Numbers and Stories",
 "title_zh": "数字与故事",
 "source": "Collab Fund",
