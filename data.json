@@ -1,16 +1,17 @@
 [{
 "id": 1,
-"title": "The Cats Are on to Something",
-"title_zh": "猫发现了什么",
-"source": "LessWrong",
-"link": "http://lesswrong.com/posts/WLFRkm3PhJ3Ty27QH/the-cats-are-on-to-something",
-"tags": ["Rationality", "AI", "Philosophy"],
-"tags_zh": ["理性", "人工智能", "哲学"],
+"title": "Makes You Think",
+"title_zh": "引人深思",
+"source": "Collab Fund",
+"link": "https://collabfund.com/blog/makes-you-think/",
+"tags": ["Critical Thinking", "Wisdom", "Reflection", "Philosophy"],
+"tags_zh": ["批判性思维", "智慧", "反思", "哲学"],
 "date": "2024-01-01",
-"summary_en": "The article explores how cats' seemingly irrational behaviors might reveal deeper insights into cognitive processes and decision-making heuristics, drawing parallels to human rationality and AI development. It argues that these 'feline algorithms' could inform better models of bounded rationality.",
-"summary_zh": "这篇文章探讨了猫看似非理性的行为如何揭示认知过程和决策启发法的深层见解，并将其与人类理性和人工智能发展相类比。文章认为这些“猫科算法”可以为有限理性提供更好的模型。"
-},"best_quote_en": "The cats are not irrational; they are executing a different kind of rationality—one optimized for their evolutionary niche, which might hold keys to understanding general intelligence.",
-{"best_quote_zh": "猫并非不理性；它们是在执行一种不同的理性——一种为其进化生态位优化的理性，这可能为了解通用智能提供关键线索。"},{
+"summary_en": "This article is a curated collection of profound quotes, ideas, and mental models that challenge conventional thinking. It serves as a catalyst for deeper reflection on important topics like risk, decision-making, human nature, and the meaning of success.",
+"summary_zh": "这篇文章是一个精心策划的集合，包含了挑战传统思维的深刻引文、观点和思维模型。它作为一个催化剂，促使人们对风险、决策、人性和成功的意义等重要主题进行更深入的反思。",
+"best_quote_en": "'The goal isn't to have more answers, but to have better questions. The most valuable thinking often begins with 'What if I'm wrong?''",
+"best_quote_zh": "'目标不是拥有更多答案，而是提出更好的问题。最有价值的思考往往始于‘如果我错了怎么办？’'"
+},{
 "id": 2,
 "title": "How to Do Great Work",
 "title_zh": "如何做出伟大的工作",
