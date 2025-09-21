@@ -151,9 +151,10 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
-    // 彩蛋：输入 magic 试试看
-if (query === 'magic') {
+   // 彩蛋：输入 magic 试试看
+    if (query === 'magic') {
   alert('✨ 哇！你发现了隐藏功能！');}
+    )
 
 /**
  * 渲染数据源选择器
